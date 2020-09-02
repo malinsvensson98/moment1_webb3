@@ -1,7 +1,7 @@
 # Moment 1: Versionshantering & Git (webbutveckling 3, HT20)
 
 Moment 1 innehåller ett antal frågor i ämnet **Versionshantering med Git** som ska besvaras i rapport-form. 
-Utöver frågorna så ska rapporten även innehålla *begreppsförklaringar* samt att jag ska skriva in endel *länkar* för att visa att jag förstått uppgiften och skapat det som ska skapas.
+Utöver frågorna så ska rapporten även innehålla *begreppsförklaringar* samt att jag ska skriva in endel *länkar* för att visa att jag förstått uppgiften och skapat det som ska skapas. Arbetet skapas för nuvarande i [GitHub](http://github.com).
 
 Huvudsyftet med uppgiften är: 
 * Att förstå varför versionshanteringssystem är mycket användbart 
@@ -12,7 +12,5 @@ Arbetet utförs av:
 Malin Svensson (masv1907) 
 Datum: 2020-09-02
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
 
