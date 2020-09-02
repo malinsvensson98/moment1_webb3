@@ -7,4 +7,6 @@ Därför håller jag nu på att testa hur man använder sig av **GitHub**.
 Denna README-fil innehåller: 
 * Information om vad jag just nu håller på med
 
+* Det går även att skriva i kursiv-stil * 
+
 
