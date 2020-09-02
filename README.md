@@ -1,11 +1,14 @@
-# Moment 1 i webbutveckling 3, HT20
+# Moment 1: Versionshantering & Git (webbutveckling 3, HT20)
 
-Detta är den första webbutveckling 3 uppgiften jag gör.
-Därför håller jag nu på att testa hur man använder sig av **GitHub**. 
+Moment 1 innehåller ett antal frågor i ämnet **Versionshantering med Git** som ska besvaras i rapport-form. 
+Utöver frågorna så ska rapporten även innehålla *begreppsförklaringar* samt att jag ska skriva in endel *länkar* för att visa att jag förstått uppgiften och skapat det som ska skapas.
 
-Denna README-fil innehåller: 
-* Information om vad jag just nu håller på med
+Huvudsyftet med uppgiften är: 
+* Att förstå varför versionshanteringssystem är mycket användbart 
+* Lära mig hur jag kan använda Git som ett verktyg för versionshantering 
+* Använda molntjänst för publicering av datasamlingar (repositories) som är baserade på Git. 
 
-* *Det går även att skriva i kursiv-stil* 
+Arbetet utförs av: 
+Malin Svensson
 
 
