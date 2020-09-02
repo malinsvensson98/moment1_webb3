@@ -12,4 +12,7 @@ Arbetet utförs av:
 Malin Svensson (masv1907) 
 Datum: 2020-09-02
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 
