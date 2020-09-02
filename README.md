@@ -9,6 +9,7 @@ Huvudsyftet med uppgiften är:
 * Använda molntjänst för publicering av datasamlingar (repositories) som är baserade på Git. 
 
 Arbetet utförs av: 
-Malin Svensson
+Malin Svensson (masv1907) 
+Datum: 2020-09-02
 
 
